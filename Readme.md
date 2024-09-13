@@ -1,0 +1,1 @@
+#This Landing page is responsive for max-width: 471px
